@@ -27,8 +27,8 @@ Through this project, I gained valuable knowledge and skills in the following ar
 
 ## Project Demonstration Videos
 
-1. [Project Demonstration Video 1](https://youtu.be/BsJkHkLh_WU)
-2. [Project Demonstration Video 2](https://youtu.be/I4DRsibhNJ8)
+1. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BsJkHkLh_WU/0.jpg)](https://www.youtube.com/watch?v=BsJkHkLh_WU)
+2. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I4DRsibhNJ8/0.jpg)](https://www.youtube.com/watch?v=I4DRsibhNJ8)
 
 ## Technologies Used
 
