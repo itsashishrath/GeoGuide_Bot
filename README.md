@@ -27,7 +27,8 @@ Through this project, I gained valuable knowledge and skills in the following ar
 
 ## Project Demonstration Videos
 
-1. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BsJkHkLh_WU/0.jpg)](https://www.youtube.com/watch?v=BsJkHkLh_WU)
+1. https://github.com/itsashishrath/GeoGuide_Bot/assets/113885228/78464a48-8693-4cd7-b881-de3bfa7b075a
+
 2. [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/I4DRsibhNJ8/0.jpg)](https://www.youtube.com/watch?v=I4DRsibhNJ8)
 
 ## Technologies Used
@@ -43,3 +44,15 @@ Through this project, I gained valuable knowledge and skills in the following ar
 I would like to express my gratitude to the eYRC team for providing this incredible opportunity to explore the fascinating worlds of robotics, computer vision, and machine learning. Special thanks to my mentors and fellow participants for their invaluable support and collaboration throughout this project.
 
 Feel free to explore the project repository and reach out with any questions or feedback!
+
+
+
+https://github.com/itsashishrath/GeoGuide_Bot/assets/113885228/c8b450b5-ae2c-47af-90f1-57f974aaee51
+
+
+
+
+
+
+
+
