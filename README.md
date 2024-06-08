@@ -29,8 +29,6 @@ Through this project, I gained valuable knowledge and skills in the following ar
 
 https://github.com/itsashishrath/GeoGuide_Bot/assets/113885228/78464a48-8693-4cd7-b881-de3bfa7b075a
 
-https://github.com/itsashishrath/GeoGuide_Bot/assets/113885228/fc12b2aa-d1e3-4554-bec8-a15d9559a531
-
 ## Technologies Used
 
 - ESP32 Microcontroller
