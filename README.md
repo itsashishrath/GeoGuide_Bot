@@ -42,4 +42,4 @@ Uploading 334002303-78464a48-8693-4cd7-b881-de3bfa7b075a.mp4…
 
 ## Acknowledgments
 
-I would like to express my gratitude to the eYRC team for providing this incredible opportunity to explore the fascinating worlds of robotics, computer vision, and machine learning. Special thanks to my teammate [Keshav Joshi](https://github.com/itskeshav01/) for their invaluable support and collaboration throughout this project.
+I would like to express my gratitude to the eYRC team for providing this incredible opportunity to explore the fascinating worlds of robotics, computer vision, and machine learning. Special thanks to my teammate [Keshav Joshi](https://github.com/itskeshav01/) for his invaluable support and collaboration throughout this project.
