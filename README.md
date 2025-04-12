@@ -27,7 +27,7 @@ Through this project, I gained valuable knowledge and skills in the following ar
 
 ## Project Demonstration Videos
 
-https://github.com/itsashishrath/GeoGuide_Bot/assets/113885228/78464a48-8693-4cd7-b881-de3bfa7b075a
+https://youtu.be/0gNoPZJ8I_k
 
 ## Technologies Used
 
