@@ -27,10 +27,9 @@ Through this project, I gained valuable knowledge and skills in the following ar
 
 ## Project Demonstration Videos
 
-Uploading 334002303-78464a48-8693-4cd7-b881-de3bfa7b075a.mp4…
+https://github.com/user-attachments/assets/70332d86-3c6d-4bc9-a120-6726a4f477df
 
-
-
+https://youtu.be/0gNoPZJ8I_k
 
 ## Technologies Used
 
